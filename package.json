@@ -1,8 +1,14 @@
 {
   "name": "dartfilenamecommentor",
-  "displayName": "dartfilenamecommentor",
+  "displayName": "Dart File Name Commentor",
   "description": "Inserts commented-out file name of dart files on save at top of file. ",
-  "version": "0.0.1",
+  "icon": "images/alien.png",
+  "version": "0.0.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alienfrenZyNo1/dartfilenamecommentor"
+  },
+  "publisher": "alienfrenZyNo1",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -13,14 +19,6 @@
     "onLanguage:dart"
   ],
   "main": "./out/extension.js",
-  "contributes": {
-    "commands": [
-      {
-        "command": "dartfilenamecommentor.helloWorld",
-        "title": "Hello World"
-      }
-    ]
-  },
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
