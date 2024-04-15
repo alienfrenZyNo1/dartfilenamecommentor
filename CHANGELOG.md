@@ -29,3 +29,9 @@ All notable changes to the "dartfilenamecommentor" extension will be documented 
 ### Added
 
 - Added an icon to improve visual representation.
+
+## [0.0.5] - 2024-04-15
+
+### Updated
+
+- Updated the changelog file to include missing entries and maintain consistency.
