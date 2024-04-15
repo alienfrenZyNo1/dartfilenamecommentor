@@ -10,11 +10,12 @@
   },
   "publisher": "alienfrenZyNo1",
   "categories": [
-    "Language Support",
-    "Utilities",
-    "Development Tools",
+    "Languages",
+    "Debuggers",
+    "Formatters",
+    "Linters",
     "Source Control",
-    "Snippets",
+    "Testing",
     "Other"
   ],
   "engines": {
