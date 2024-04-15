@@ -1,71 +1,45 @@
-# dartfilenamecommentor README
 
-This is the README for your extension "dartfilenamecommentor". After writing up a brief description, we recommend including the following sections.
+       ___
+   //      \\   //\
+  ||  ◑ _ ◑ ||  || |
+  \\    ▼  //   \\/
+   \\_____//
+   /       \
+  /  ╭───╮  \
+  |  │    │  |
+  |  │    │  |
+  \  ╰─╯  /
+   ╰─────╯
+
+
+Dart Filename Commentor is a Visual Studio Code extension that automatically inserts a commented-out version of the file name at the top of Dart files when they are saved. This extension is particularly useful for Flutter projects where maintaining references to file names can aid in development.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- Automatically inserts a commented-out file name at the top of Dart files on save.
+- Supports Flutter projects by providing relative paths from the 'lib' directory.
+- Avoids overwriting existing comments or manually added file name references.
+- Compatible with Visual Studio Code's built-in save functionality.
+- Inspired by the need to easily copy and paste file names into chat platforms like ChatGPT or Gemini.
 
-For example if there is an image subfolder under your extension project workspace:
+## Installation
 
-\!\[feature X\]\(images/feature-x.png\)
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the square icon in the sidebar.
+3. Search for "Dart Filename Commentor" and click on Install.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Usage
 
-## Requirements
+- Simply save a Dart file, and the extension will insert a commented-out file name at the top of the document if it doesn't already exist.
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Configuration
 
-## Extension Settings
+- There are currently no configuration options for this extension.
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## Issues and Feedback
 
-For example:
+- If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/yourusername/dart-filename-commentor/issues) on GitHub.
 
-This extension contributes the following settings:
+## License
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This project is licensed under the [MIT License](LICENSE).
