@@ -1,18 +1,9 @@
 
-        ___
-   //      \\   //\\
-  ||  ◑ _ ◑ ||  || |
-  \\    ▼  //   \\/
-   \\_____//
-   /       \\
-  /  ╭───╮  \\
-  |  │    │  |
-  |  │    │  |
-  \  ╰─╯  /
-   ╰─────╯
-
-
-
+      / \__
+   (    @\___
+   /         O
+ /   (_____/
+/_____/ U
 
 Dart Filename Commentor is a Visual Studio Code extension that automatically inserts a commented-out version of the file name at the top of Dart files when they are saved. This extension is particularly useful for Flutter projects where maintaining references to file names can aid in development.
 
