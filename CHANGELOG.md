@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.6] - YYYY-MM-DD
+### Changed
+- Updated the categories for the extension.
+
 ## [0.0.5] - 2024-04-15
 ### Updated
 - Updated the changelog file to include missing entries and maintain consistency.

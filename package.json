@@ -3,7 +3,7 @@
   "displayName": "Dart File Name Commentor",
   "description": "Inserts commented-out file name of dart files on save at top of file. ",
   "icon": "images/alien.png",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/alienfrenZyNo1/dartfilenamecommentor"
