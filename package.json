@@ -9,12 +9,17 @@
     "url": "https://github.com/alienfrenZyNo1/dartfilenamecommentor"
   },
   "publisher": "alienfrenZyNo1",
+  "categories": [
+    "Language Support",
+    "Utilities",
+    "Development Tools",
+    "Source Control",
+    "Snippets",
+    "Other"
+  ],
   "engines": {
     "vscode": "^1.88.0"
   },
-  "categories": [
-    "Other"
-  ],
   "activationEvents": [
     "onLanguage:dart"
   ],
