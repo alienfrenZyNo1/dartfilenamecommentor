@@ -1,6 +1,10 @@
 # Change Log
 
-## [0.0.6] - YYYY-MM-DD
+## [0.0.7] - 2024-04-15
+### Changed
+- Updated the keywords for the extension.
+
+## [0.0.6] - 2024-04-15
 ### Changed
 - Updated the categories for the extension.
 

@@ -3,7 +3,7 @@
   "displayName": "Dart File Name Commentor",
   "description": "Inserts commented-out file name of dart files on save at top of file. ",
   "icon": "images/alien.png",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "repository": {
     "type": "git",
     "url": "https://github.com/alienfrenZyNo1/dartfilenamecommentor"
@@ -16,6 +16,14 @@
     "Linters",
     "Testing",
     "Other"
+  ],
+  "keywords": [
+    "flutter",
+    "dart",
+    "filename",
+    "relative path",
+    "lib folder",
+    "comments"
   ],
   "engines": {
     "vscode": "^1.88.0"
